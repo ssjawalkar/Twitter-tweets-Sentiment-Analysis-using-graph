@@ -13,3 +13,4 @@ I will be using sentiment analysis to analysis polarity and subjectivity. polari
 
 With the help of values of polarity and subjectivity I get, I would plot a graph using pyplot function from matplotlib library. 
  
+![tta1](https://user-images.githubusercontent.com/22686539/70174821-a3dd1980-16fb-11ea-9064-400662d80f33.png)
